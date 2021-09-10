@@ -53,7 +53,8 @@ repository.
 - JuehanWang
 [**@JuehanWang**](https://github.com/JuehanWang/) Hi everyone, I'm Juehan. I'm a master student in Biostatistics.
 
-- songruwa
+- songruwa 
+[**@songruwa**](https://github.com/songruwa/)Hi, guys. My name is Songru Wang. I'm from Chongqing, China. I'm a 100% sushi and sashimi lover.
 
 - yywuzhanfei
 [**@yywuzhanfei**](https://github.com/yywuzhanfei/) My undergraduate major was Plant Protection, but I prefer math, that's why I go to USC to study statistics.
