@@ -27,7 +27,7 @@ repository.
 
 # PM566 Fall 2021 students
 
-- jaxabercrombie
+- [**@jaxabercrombie**](https://github.com/jaxabercrombie) Hello everyone! I am Jaxon, and I am getting two degrees through Keck currently: my B.S. in Health Promotion & Disease Prevention and M.S. in Public Health Data Science!
 
 [**@ramayyala**](https://github.com/ramayyala) When I was a kid, I had a pet fish named Porkchop who my parents replaced every year without me knowing. 
 
