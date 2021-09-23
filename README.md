@@ -38,7 +38,7 @@ repository.
 - WebsterJiang
 [**@WebsterJiang**](https://github.com/WebsterJiang/) Hi, I am Wenbo Jiang, second year master student in biostats. 
 
-- PikaMike
+- PikaMike [**@PikaMike**](https://github.com/PikaMike) Hello, I am Tiansheng Jin, majoring in Biostatistics.I come from China:)
 
 - yqchristina I'm a PhD student in Molecular Pharmacology and Toxicology from Canada :octocat:
 
