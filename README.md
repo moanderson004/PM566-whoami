@@ -8,13 +8,14 @@ You need to make a fork of this repository, find your name in the list below, an
 
 For example, this is what I did with mine:
 
-> [**@gvegayon**](https://github.com/gvegayon) My first programming language was Visual Basic and before going to business school I wanted to be a musician <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" alt="An old picture of me" width="40px">
+> [**@ksiegmund**](https://github.com/ksiegmund) When I was in 6th grade I wanted to become an airline pilot. My favorite sports to play are ultimate frisbee and basketball.
+<img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
 
 Notice the figure of my username (that's optional and fun). This is the code I used of writing that line:
 
 ```md
-[**@gvegayon**](https://github.com/gvegayon) My first programming language was VisualBasic and before going to business school I wanted to be a musician
-<img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" alt="An old picture of me" width="40px">
+[**@ksiegmund**](https://github.com/ksiegmund) When I was in 6th grade I wanted to become an airline pilot. My favorite sports to play are ultimate frisbee and basketball.
+<img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
 ```
 
 Look for your GitHub username and add a link to your Github profile and something about
@@ -24,6 +25,16 @@ username! If you don't see your username, just add it at the end of the list (an
 Once you are done, submit a
 [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to include your information in the original
 repository.
+
+# PM566 Fall 2022 students
+
+
+## Instructor
+
+
+[**@ksiegmund**](https://github.com/ksiegmund) I love to sample different cuisines.
+<img src="https://avatars.githubusercontent.com/u/8010048?s=400&u=27bfd29a5cf43c622f4c210dcb6c19ae69fda44e&v=4" alt="github pic" width="40px"> 
+
 
 # PM566 Fall 2021 students
 
