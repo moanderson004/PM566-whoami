@@ -26,32 +26,34 @@ repository.
 
 # PM566 Fall 2022 students
 
-kailaan00
-CBSC73
-Eleanorisnotageek
-KimmDD
-cchen941
-jiawen-claire-chen
-Yumeng2022
-rainane007
-tzuyuhua
-sanyu23333
-mkhan58
-marylee513
-Margery0011
-ChengHsiangLu
-Cap2247
-qiushipeng
-shkhyan
-eztang12
-megantra
-Chenwei19970227
-flemm0
-vivi0903
-yanyanming77
-v-yin
-yating-zeng
-bunny-cop
+- kailaan00
+
+- CBSC73
+
+- Eleanorisnotageek
+- KimmDD
+- cchen941
+- jiawen-claire-chen
+- Yumeng2022
+- rainane007
+- tzuyuhua
+- sanyu23333
+- mkhan58
+- marylee513
+- Margery0011
+- ChengHsiangLu
+- Cap2247
+- qiushipeng
+- shkhyan
+- eztang12
+- megantra
+- Chenwei19970227
+- flemm0
+- vivi0903
+- yanyanming77
+- v-yin
+- yating-zeng
+- bunny-cop
 
 ## Instructor
 
