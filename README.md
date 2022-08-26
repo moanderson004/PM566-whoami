@@ -26,12 +26,36 @@ repository.
 
 # PM566 Fall 2022 students
 
+kailaan00
+CBSC73
+Eleanorisnotageek
+KimmDD
+cchen941
+jiawen-claire-chen
+Yumeng2022
+rainane007
+tzuyuhua
+sanyu23333
+mkhan58
+marylee513
+Margery0011
+ChengHsiangLu
+Cap2247
+qiushipeng
+shkhyan
+eztang12
+megantra
+Chenwei19970227
+flemm0
+vivi0903
+yanyanming77
+v-yin
+yating-zeng
+bunny-cop
 
 ## Instructor
 
-
-[**@ksiegmund**](https://github.com/ksiegmund) I love to sample different cuisines.
-<img src="https://avatars.githubusercontent.com/u/8010048?s=400&u=27bfd29a5cf43c622f4c210dcb6c19ae69fda44e&v=4" alt="github pic" width="40px"> 
+ksiegmund
 
 
 # PM566 Fall 2021 students
