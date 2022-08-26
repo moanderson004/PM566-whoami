@@ -8,14 +8,12 @@ You need to make a fork of this repository, find your name in the list below, an
 
 For example, this is what I did with mine:
 
-> [**@ksiegmund**](https://github.com/ksiegmund) When I was in 6th grade I wanted to become an airline pilot.
-<img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
+> [**@ksiegmund**](https://github.com/ksiegmund) When I was in 6th grade I wanted to become an airline pilot. <img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
 
 Notice the figure of my username (that's optional and fun). This is the code I used of writing that line:
 
 ```md
-[**@ksiegmund**](https://github.com/ksiegmund) When I was in 6th grade I wanted to become an airline pilot.
-<img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
+[**@ksiegmund**](https://github.com/ksiegmund) When I was in 6th grade I wanted to become an airline pilot. <img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
 ```
 
 Look for your GitHub username and add a link to your Github profile and something about
