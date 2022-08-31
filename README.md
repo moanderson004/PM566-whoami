@@ -37,7 +37,7 @@ repository.
 - Yumeng2022
 - rainane007
 - tzuyuhua
-- [**@sanyu23333**](https://github.com/sanyu23333) This is Sean. I like playing soccer, and I hope this time Messi can hold the World Cup.
+- [**@sanyu23333**](https://github.com/sanyu23333) This is Sean. I like playing soccer, and I hope this time Messi can hold the World Cup. <img src="https://avatars.githubusercontent.com/u/111936849?v=4" alt="github pic" width="40px"> 
 - mkhan58
 - marylee513
 - Margery0011
