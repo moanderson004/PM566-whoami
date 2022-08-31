@@ -38,7 +38,7 @@ repository.
 - rainane007
 - tzuyuhua
 - sanyu23333
-- mkhan58
+- [**@mkhan58**](https://github.com/mkhan58/) Hello, I'm a graduate student in the Public Health Data Science program.
 - marylee513
 - Margery0011
 - ChengHsiangLu
@@ -48,8 +48,8 @@ repository.
 - eztang12
 - megantra
 - Chenwei19970227
-- flemm0
-[**@vivi0903**](https://github.com/vivi0903) I come from China.I love my doddy Wanzi. <img src="https://avatars.githubusercontent.com/u/111720993?v=4" alt="github pic" width="40px"> 
+- [**flemm0**](https://github.com/flemm0) Greetings, my name's Flemming and I'm an M.S. student in Bioinformatics. Also I like to snowboard and I'm from LA.
+- vivi0903
 - yanyanming77
 - v-yin
 - yating-zeng
@@ -57,8 +57,7 @@ repository.
 
 ## Instructor
 
-ksiegmund
-
+[**@ksiegmund**](https://github.com/ksiegmund) I love to eat a variety of cuisines. <img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
 
 # PM566 Fall 2021 students
 
@@ -184,6 +183,7 @@ git push
 
 - [**@shiyushen**](https://github.com/shiyushen)I am now in China. 
 
+- [**@yating-zeng**](https://github.com/yating-zeng) This is Yating, a second year student in BIostats.
 
 ## Instructors
 
