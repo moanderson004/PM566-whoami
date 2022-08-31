@@ -57,7 +57,8 @@ repository.
 
 ## Instructor
 
-ksiegmund
+[**@ksiegmund**](https://github.com/ksiegmund) I love to eat a variety of cuisines. <img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
+
 
 
 # PM566 Fall 2021 students
