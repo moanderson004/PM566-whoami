@@ -31,10 +31,7 @@ repository.
 - CBSC73
 
 - Eleanorisnotageek
-- 
-```md
-[**@KimmDD**](https://github.com/KimmDD/) My favoriate fruit is Durian.
-```
+- [**@KimmDD**](https://github.com/KimmDD/) My favoriate fruit is Durian.
 - cchen941
 - jiawen-claire-chen
 - Yumeng2022
