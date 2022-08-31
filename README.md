@@ -42,7 +42,7 @@ repository.
 - marylee513
 - Margery0011
 - ChengHsiangLu
-- Cap2247
+- [**@Cap2247**](https://github.com/Cap2247) i like pizza
 - qiushipeng
 - shkhyan
 - eztang12
