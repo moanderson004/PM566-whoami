@@ -33,7 +33,7 @@ repository.
 - Eleanorisnotageek
 - KimmDD
 - cchen941
-- jiawen-claire-chen
+-[**@jiawen-claire-chen**](https://github.com/jiawen-claire-chen/) Hopefully I can handle with R at the end of this semester.
 - Yumeng2022
 - rainane007
 - tzuyuhua
