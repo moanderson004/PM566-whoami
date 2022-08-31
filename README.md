@@ -48,7 +48,7 @@ repository.
 - eztang12
 - megantra
 - Chenwei19970227
-- flemm0
+- [**flemm0**](https://github.com/flemm0) Greetings, my name's Flemming and I'm an M.S. student in Bioinformatics. Also I like to snowboard and I'm from LA.
 - vivi0903
 - yanyanming77
 - v-yin
