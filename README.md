@@ -45,7 +45,7 @@ repository.
 - Cap2247
 - qiushipeng
 - shkhyan
-- eztang12
+- [**@eztang12**](https://github.com/eztang12) Hi everyone! I'm Echo, and I'm a progressive degree student getting my B.S. in Quantitative Biology and M.S. in Public Health Data Science.
 - megantra
 - Chenwei19970227
 - flemm0
