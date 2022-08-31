@@ -36,7 +36,7 @@ repository.
 - jiawen-claire-chen
 - Yumeng2022
 - rainane007
-- [**@tzuyuhua**](https://github.com/tzuyuhua/) MS biostats, final semester, if I can finish my thesis in time, pizza is delicious, so are fried chicken and boba tea. But calorie no no good. 
+- [**@tzuyuhua**](https://github.com/tzuyuhua/) MS biostats, final semester, if I can finish my thesis in time, pizza is delicious, so are fried chicken and boba tea. But calorie no no good.
 - sanyu23333
 - mkhan58
 - marylee513
