@@ -32,7 +32,7 @@ repository.
 
 - Eleanorisnotageek
 - KimmDD
-- [**@cchen941**](https://github.com/cchen941) I am pursing my degree of master of Analytics. <img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
+- [**@cchen941**](https://github.com/cchen941) I am pursing my degree of master of Analytics. <img src="https://avatars.githubusercontent.com/u/111814073?v=4" alt="github pic" width="40px"> 
 - jiawen-claire-chen
 - Yumeng2022
 - rainane007
