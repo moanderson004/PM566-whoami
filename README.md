@@ -46,7 +46,7 @@ repository.
 - qiushipeng
 - shkhyan
 - eztang12
-- [**megantra**](https://github.com/megantra) Hi! I'm a second year MPH student with a concentration in Epidemiology/Biostatistics. 
+- [**megantra**](https://github.com/megantra) Hi! I'm a second year MPH student with a concentration in Epidemiology/Biostatistics. I'm from the Bay Area.
 - Chenwei19970227
 - flemm0
 - vivi0903
