@@ -35,7 +35,7 @@ repository.
 - cchen941
 - jiawen-claire-chen
 - Yumeng2022
-- rainane007
+- [**@rainane007**](https://github.com/rainane007/) Hi everyone! I am Yuhong, a first year PhD student in Epidemiology.
 - tzuyuhua
 - sanyu23333
 - mkhan58
