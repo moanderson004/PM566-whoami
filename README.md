@@ -49,7 +49,7 @@ repository.
 - megantra
 - Chenwei19970227
 - [**flemm0**](https://github.com/flemm0) Greetings, my name's Flemming and I'm an M.S. student in Bioinformatics. Also I like to snowboard and I'm from LA.
-- vivi0903
+- [**vivi0903**](https://github.com/vivi0903)I love my doddy Wanzi. <img src="https://avatars.githubusercontent.com/u/111720993?v=4" alt="github pic" width="40px"> 
 - yanyanming77
 - v-yin
 - yating-zeng
