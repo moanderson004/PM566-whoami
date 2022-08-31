@@ -41,7 +41,7 @@ repository.
 - mkhan58
 - marylee513
 - Margery0011
-- ChengHsiangLu
+- [**@ChengHsiangLu**](https://github.com/ChengHsiangLu) Hello everyone. I'm Sam and I love to play basketball. <img src="https://avatars.githubusercontent.com/u/89505688?v=4" alt="github pic" width="40px"> 
 - Cap2247
 - qiushipeng
 - shkhyan
@@ -57,7 +57,7 @@ repository.
 
 ## Instructor
 
-[**@ChengHsiangLu**](https://github.com/ChengHsiangLu) I love to play basketball very much. <img src="https://avatars.githubusercontent.com/u/89505688?v=4" alt="github pic" width="40px"> 
+ksiegmund
 
 
 # PM566 Fall 2021 students
