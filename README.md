@@ -47,7 +47,7 @@ repository.
 - shkhyan
 - eztang12
 - megantra
-- Chenwei19970227
+- [**ChenWei19970227**](https://github.com/chenwei19970227) Hi,I'm chen wei.I'm a huge cat lady.
 - flemm0
 - vivi0903
 - yanyanming77
