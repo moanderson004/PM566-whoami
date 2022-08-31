@@ -30,7 +30,10 @@ repository.
 
 - CBSC73
 
-- Eleanorisnotageek
+- 
+```md
+[**@Eleanorisnotageek**](https://github.com/Eleanorisnotageek/) Sometimes we are like stars, we fall to make someone's wish come true.
+```
 - KimmDD
 - cchen941
 - jiawen-claire-chen
