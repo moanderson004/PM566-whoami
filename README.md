@@ -51,7 +51,7 @@ repository.
 - flemm0
 - vivi0903
 - yanyanming77
-- v-yin
+- [**v-yin**] (https://github.com/v-yin/) I am a MD/MPH student interested in data science and Thoracic Surgery!
 - yating-zeng
 - bunny-cop
 
