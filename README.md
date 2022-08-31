@@ -52,7 +52,7 @@ repository.
 - vivi0903
 - yanyanming77
 - v-yin
-- yating-zeng
+- yating-zeng [**@yating-zeng**](https://github.com/yating-zeng) This is Yating, a second year student in Biostats.
 - bunny-cop
 
 ## Instructor
@@ -183,8 +183,6 @@ git push
 - [**@stephtring**](https://github.com/stephtring/PM566-fall2020-whoami) Hola nice to meet ya'll
 
 - [**@shiyushen**](https://github.com/shiyushen)I am now in China. 
-
-- [**@yating-zeng**](https://github.com/yating-zeng) This is Yating, a second year student in BIostats.
 
 ## Instructors
 
