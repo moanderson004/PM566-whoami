@@ -44,7 +44,7 @@ repository.
 - ChengHsiangLu
 - Cap2247
 - qiushipeng
-- shkhyan
+- [**@shkhyan**](https://github.com/shkhyan) I am a competitive spicy food eater. <img src="https://avatars.githubusercontent.com/u/111995300?v=4"> 
 - eztang12
 - megantra
 - Chenwei19970227
