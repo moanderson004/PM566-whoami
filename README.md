@@ -57,7 +57,7 @@ repository.
 
 ## Instructor
 
-[**@ChengHsiangLu**](https://github.com/ChengHsiangLu) I love to eat a variety of cuisiines. <img src="https://avatars.githubusercontent.com/u/89505688?v=4" alt="github pic" width="40px"> 
+[**@ChengHsiangLu**](https://github.com/ChengHsiangLu) I love to play basketball very much. <img src="https://avatars.githubusercontent.com/u/89505688?v=4" alt="github pic" width="40px"> 
 
 
 # PM566 Fall 2021 students
