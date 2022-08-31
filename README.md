@@ -40,7 +40,7 @@ repository.
 - sanyu23333
 - mkhan58
 - marylee513
-- Margery0011
+- Margery0011 [**@Margery0011*](https://github.com/Margery0011/) Hi, My name is Yutian Liu, I love stand up comedies. I am from Chongqing.
 - ChengHsiangLu
 - Cap2247
 - qiushipeng
