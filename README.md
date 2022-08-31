@@ -26,7 +26,8 @@ repository.
 
 # PM566 Fall 2022 students
 
-- kailaan00
+- [**@kailaan00**](https://github.com/kailaan00) Hello, my name is Kaila! I am an MPH student graduating in Spring of 2023.
+
 
 - CBSC73
 
