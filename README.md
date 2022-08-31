@@ -184,6 +184,7 @@ git push
 
 - [**@shiyushen**](https://github.com/shiyushen)I am now in China. 
 
+- [**@yating-zeng**](https://github.com/yating-zeng) This is Yating, a second year student in BIostats.
 
 ## Instructors
 
