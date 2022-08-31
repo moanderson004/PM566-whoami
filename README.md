@@ -43,7 +43,7 @@ repository.
 - Margery0011
 - ChengHsiangLu
 - Cap2247
-- qiushipeng
+[**@qiushipeng**](https://github.com/qiushipeng) Hi, I am Qiushi Peng, a master student majoring in Pharmaceutical Science.
 - shkhyan
 - eztang12
 - megantra
