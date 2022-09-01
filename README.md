@@ -52,9 +52,10 @@ repository.
 - shkhyan
 - [**@eztang12**](https://github.com/eztang12) Hi everyone! I'm Echo, and I'm a progressive degree student getting my B.S. in Quantitative Biology and M.S. in Public Health Data Science.
 - megantra
-- Chenwei19970227
+- [**ChenWei19970227**](https://github.com/chenwei19970227) Hi,I'm chen wei.I'm a huge cat lady.
 - [**flemm0**](https://github.com/flemm0) Greetings, my name's Flemming and I'm an M.S. student in Bioinformatics. Also I like to snowboard and I'm from LA.
 - [**vivi0903**](https://github.com/vivi0903)I love my doddy Wanzi. <img src="https://avatars.githubusercontent.com/u/111720993?v=4" alt="github pic" width="40px"> 
+
 - yanyanming77
 - v-yin
 - yating-zeng [**@yating-zeng**](https://github.com/yating-zeng) This is Yating, a second year student in Biostats.
