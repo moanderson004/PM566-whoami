@@ -50,8 +50,10 @@ repository.
 
 - Margery0011 [**@Margery0011**](https://github.com/Margery0011/) My name is Yutian, I am from Chongqing, I love standup comedies.
 
-- ChengHsiangLu
+- [**@ChengHsiangLu**](https://github.com/ChengHsiangLu) Hello everyone. I'm Sam and I love to play basketball. <img src="https://avatars.githubusercontent.com/u/89505688?v=4" alt="github pic" width="40px"> 
+
 - [**@Cap2247**](https://github.com/Cap2247) i like pizza
+
 - qiushipeng
 - shkhyan
 - [**@eztang12**](https://github.com/eztang12) Hi everyone! I'm Echo, and I'm a progressive degree student getting my B.S. in Quantitative Biology and M.S. in Public Health Data Science.
