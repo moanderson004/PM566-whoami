@@ -46,9 +46,7 @@ repository.
 
 - sanyu23333
 - [**@mkhan58**](https://github.com/mkhan58/) Hello, I'm a graduate student in the Public Health Data Science program.
-- marylee513
-
-[**@marylee513**](https://github.com/marylee513) I worked as a registered dietitian before in a hospital. 
+- [**@marylee513**](https://github.com/marylee513) I worked as a registered dietitian before in a hospital. 
 
 - Margery0011 [**@Margery0011**](https://github.com/Margery0011/) My name is Yutian, I am from Chongqing, I love standup comedies.
 
@@ -58,8 +56,10 @@ repository.
 
 - [**@qiushipeng**](https://github.com/qiushipeng) Hi, I am Qiushi Peng, a master student majoring in Pharmaceutical Science.
 
-- shkhyan
+- [**@shkhyan**](https://github.com/shkhyan) I am a competitive spicy food eater. <img src="https://avatars.githubusercontent.com/u/111995300?v=4"> 
+
 - [**@eztang12**](https://github.com/eztang12) Hi everyone! I'm Echo, and I'm a progressive degree student getting my B.S. in Quantitative Biology and M.S. in Public Health Data Science.
+
 - megantra
 - [**ChenWei19970227**](https://github.com/chenwei19970227) Hi,I'm chen wei.I'm a huge cat lady.
 - [**flemm0**](https://github.com/flemm0) Greetings, my name's Flemming and I'm an M.S. student in Bioinformatics. Also I like to snowboard and I'm from LA.
