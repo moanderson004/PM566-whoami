@@ -58,7 +58,8 @@ repository.
 - yanyanming77
 - v-yin
 - yating-zeng [**@yating-zeng**](https://github.com/yating-zeng) This is Yating, a second year student in Biostats.
-- bunny-cop
+- bunny-cop [**bunny-cop**](https://github.com/bunny-cop/)bunny cop456
+
 
 ## Instructor
 
