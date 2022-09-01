@@ -30,12 +30,12 @@ repository.
 
 - [**@CBSC73**](https://github.com/CBSC73) I love snow dogs and winter. <img src ="https://hellobark.com/wp-content/uploads/samoyed-flowers.jpg" alt="github pic" width = "40px">
 
-- 
-```
+
 [**@Eleanorisnotageek**](https://github.com/Eleanorisnotageek/) Sometimes we are like stars, we fall to make someone's wish come true.
-```
-- KimmDD
+
+- [**@KimmDD**](https://github.com/KimmDD/) My favoriate fruit is Durian.
 - [**@cchen941**](https://github.com/cchen941) I am pursing my degree of master of Analytics. <img src="https://avatars.githubusercontent.com/u/111814073?v=4" alt="github pic" width="40px"> 
+
 - jiawen-claire-chen
 - [**@jiawen-claire-chen**](https://github.com/jiawen-claire-chen/) Hopefully I can handle with R at the end of this semester.
 
