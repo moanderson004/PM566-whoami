@@ -28,7 +28,7 @@ repository.
 
 - kailaan00
 
-- CBSC73
+- [**@CBSC73**](https://github.com/CBSC73) I love snow dogs and winter. <img src ="https://hellobark.com/wp-content/uploads/samoyed-flowers.jpg" alt="github pic" width = "40px">
 
 - 
 ```
