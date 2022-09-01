@@ -57,7 +57,7 @@ repository.
 - [**vivi0903**](https://github.com/vivi0903)I love my doddy Wanzi. <img src="https://avatars.githubusercontent.com/u/111720993?v=4" alt="github pic" width="40px"> 
 
 - yanyanming77
-- v-yin
+- [**v-yin**] (https://github.com/v-yin/) I am a MD/MPH student interested in data science and Thoracic Surgery!
 - yating-zeng [**@yating-zeng**](https://github.com/yating-zeng) This is Yating, a second year student in Biostats.
 - bunny-cop [**bunny-cop**](https://github.com/bunny-cop/)bunny cop456
 
