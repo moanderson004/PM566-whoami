@@ -33,7 +33,7 @@ repository.
 - Eleanorisnotageek
 - KimmDD
 - cchen941
-- jiawen-claire-chen
+- [**@jiawen-claire-chen**](https://github.com/jiawen-claire-chen/) Hopefully I can handle with R at the end of this semester.
 - Yumeng2022
 - rainane007
 - [**@tzuyuhua**](https://github.com/tzuyuhua/) MS biostats, final semester, if I can finish my thesis in time, pizza is delicious, so are fried chicken and boba tea. But calorie no no good.
