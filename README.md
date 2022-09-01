@@ -38,10 +38,12 @@ repository.
 - [**@cchen941**](https://github.com/cchen941) I am pursing my degree of master of Analytics. <img src="https://avatars.githubusercontent.com/u/111814073?v=4" alt="github pic" width="40px"> 
 - jiawen-claire-chen
 - [**@jiawen-claire-chen**](https://github.com/jiawen-claire-chen/) Hopefully I can handle with R at the end of this semester.
-- Yumeng2022
+
 - [**@Yumeng2022**](https://github.com/Yumeng2022) When I was 5 I wanted to be a detective. <img src="https://avatars.githubusercontent.com/u/112013415?v=4" alt="github pic" width="40px"> 
-- rainane007
+- [**@rainane007**](https://github.com/rainane007/) Hi everyone! I am Yuhong, a first year PhD student in Epidemiology.
+
 - [**@tzuyuhua**](https://github.com/tzuyuhua/) MS biostats, final semester, if I can finish my thesis in time, pizza is delicious, so are fried chicken and boba tea. But calorie no no good.
+
 - sanyu23333
 - [**@mkhan58**](https://github.com/mkhan58/) Hello, I'm a graduate student in the Public Health Data Science program.
 - marylee513
