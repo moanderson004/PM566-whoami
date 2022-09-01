@@ -35,7 +35,7 @@ repository.
 [**@Eleanorisnotageek**](https://github.com/Eleanorisnotageek/) Sometimes we are like stars, we fall to make someone's wish come true.
 ```
 - KimmDD
-- cchen941
+- [**@cchen941**](https://github.com/cchen941) I am pursing my degree of master of Analytics. <img src="https://avatars.githubusercontent.com/u/111814073?v=4" alt="github pic" width="40px"> 
 - jiawen-claire-chen
 - [**@jiawen-claire-chen**](https://github.com/jiawen-claire-chen/) Hopefully I can handle with R at the end of this semester.
 - Yumeng2022
@@ -71,7 +71,7 @@ repository.
 
 ## Instructor
 
-[**@ksiegmund**](https://github.com/ksiegmund) I love to eat a variety of cuisines. <img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
+>>>>> master
 
 # PM566 Fall 2021 students
 
