@@ -73,7 +73,7 @@ repository.
 
 ## Instructor
 
->>>>> master
+[**@ksiegmund**](https://github.com/ksiegmund) I love to travel. <img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px">
 
 # PM566 Fall 2021 students
 
