@@ -54,7 +54,8 @@ repository.
 
 - [**@Cap2247**](https://github.com/Cap2247) i like pizza
 
-- qiushipeng
+- [**@qiushipeng**](https://github.com/qiushipeng) Hi, I am Qiushi Peng, a master student majoring in Pharmaceutical Science.
+
 - shkhyan
 - [**@eztang12**](https://github.com/eztang12) Hi everyone! I'm Echo, and I'm a progressive degree student getting my B.S. in Quantitative Biology and M.S. in Public Health Data Science.
 - megantra
