@@ -40,7 +40,7 @@ repository.
 - sanyu23333
 - [**@mkhan58**](https://github.com/mkhan58/) Hello, I'm a graduate student in the Public Health Data Science program.
 - marylee513
-- Margery0011
+- Margery0011 [**@Margery0011**](https://github.com/Margery0011/) My name is Yutian, I am from Chongqing, I love standup comedies.
 - ChengHsiangLu
 - Cap2247
 - qiushipeng
