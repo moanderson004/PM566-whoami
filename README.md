@@ -36,7 +36,7 @@ repository.
 - jiawen-claire-chen
 - Yumeng2022
 - rainane007
-- tzuyuhua
+- [**@tzuyuhua**](https://github.com/tzuyuhua/) MS biostats, final semester, if I can finish my thesis in time, pizza is delicious, so are fried chicken and boba tea. But calorie no no good.
 - sanyu23333
 - [**@mkhan58**](https://github.com/mkhan58/) Hello, I'm a graduate student in the Public Health Data Science program.
 - marylee513
