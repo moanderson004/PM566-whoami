@@ -42,7 +42,7 @@ repository.
 - marylee513
 - Margery0011 [**@Margery0011**](https://github.com/Margery0011/) My name is Yutian, I am from Chongqing, I love standup comedies.
 - ChengHsiangLu
-- Cap2247
+- [**@Cap2247**](https://github.com/Cap2247) i like pizza
 - qiushipeng
 - shkhyan
 - eztang12
