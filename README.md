@@ -30,35 +30,39 @@ repository.
 
 - CBSC73
 
-- Eleanorisnotageek
+- 
+```
+[**@Eleanorisnotageek**](https://github.com/Eleanorisnotageek/) Sometimes we are like stars, we fall to make someone's wish come true.
+```
 - KimmDD
 - cchen941
 - jiawen-claire-chen
-[**@Yumeng2022**](https://github.com/Yumeng2022) When I was 5 I wanted to be a detective. <img src="https://avatars.githubusercontent.com/u/112013415?v=4"> 
+- [**@jiawen-claire-chen**](https://github.com/jiawen-claire-chen/) Hopefully I can handle with R at the end of this semester.
+- Yumeng2022
+- [**@Yumeng2022**](https://github.com/Yumeng2022) When I was 5 I wanted to be a detective. <img src="https://avatars.githubusercontent.com/u/112013415?v=4" alt="github pic" width="40px"> 
 - rainane007
-- tzuyuhua
+- [**@tzuyuhua**](https://github.com/tzuyuhua/) MS biostats, final semester, if I can finish my thesis in time, pizza is delicious, so are fried chicken and boba tea. But calorie no no good.
 - sanyu23333
-- mkhan58
+- [**@mkhan58**](https://github.com/mkhan58/) Hello, I'm a graduate student in the Public Health Data Science program.
 - marylee513
-- Margery0011
+- Margery0011 [**@Margery0011**](https://github.com/Margery0011/) My name is Yutian, I am from Chongqing, I love standup comedies.
 - ChengHsiangLu
-- Cap2247
+- [**@Cap2247**](https://github.com/Cap2247) i like pizza
 - qiushipeng
 - shkhyan
-- eztang12
+- [**@eztang12**](https://github.com/eztang12) Hi everyone! I'm Echo, and I'm a progressive degree student getting my B.S. in Quantitative Biology and M.S. in Public Health Data Science.
 - megantra
 - Chenwei19970227
-- flemm0
-- vivi0903
+- [**flemm0**](https://github.com/flemm0) Greetings, my name's Flemming and I'm an M.S. student in Bioinformatics. Also I like to snowboard and I'm from LA.
+- [**vivi0903**](https://github.com/vivi0903)I love my doddy Wanzi. <img src="https://avatars.githubusercontent.com/u/111720993?v=4" alt="github pic" width="40px"> 
 - yanyanming77
 - v-yin
-- yating-zeng
+- yating-zeng [**@yating-zeng**](https://github.com/yating-zeng) This is Yating, a second year student in Biostats.
 - bunny-cop
 
 ## Instructor
 
-ksiegmund
-
+[**@ksiegmund**](https://github.com/ksiegmund) I love to eat a variety of cuisines. <img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
 
 # PM566 Fall 2021 students
 
@@ -183,7 +187,6 @@ git push
 - [**@stephtring**](https://github.com/stephtring/PM566-fall2020-whoami) Hola nice to meet ya'll
 
 - [**@shiyushen**](https://github.com/shiyushen)I am now in China. 
-
 
 ## Instructors
 
