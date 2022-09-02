@@ -29,37 +29,52 @@ repository.
 - [**@kailaan00**](https://github.com/kailaan00) Hello, my name is Kaila An! I am an MPH student graduating in Spring of 2023.
 
 
-- CBSC73
+- [**@CBSC73**](https://github.com/CBSC73) I love snow dogs and winter. <img src ="https://hellobark.com/wp-content/uploads/samoyed-flowers.jpg" alt="github pic" width = "40px">
 
-- Eleanorisnotageek
-- KimmDD
-- cchen941
-- jiawen-claire-chen
-- Yumeng2022
-- rainane007
-- tzuyuhua
-- sanyu23333
-- mkhan58
-- marylee513
-- Margery0011
-- ChengHsiangLu
-- Cap2247
-- qiushipeng
-- shkhyan
-- eztang12
+
+[**@Eleanorisnotageek**](https://github.com/Eleanorisnotageek/) Sometimes we are like stars, we fall to make someone's wish come true.
+
+- [**@KimmDD**](https://github.com/KimmDD/) My favoriate fruit is Durian.
+- [**@cchen941**](https://github.com/cchen941) I am pursing my degree of master of Analytics. <img src="https://avatars.githubusercontent.com/u/111814073?v=4" alt="github pic" width="40px"> 
+
+- [**@jiawen-claire-chen**](https://github.com/jiawen-claire-chen/) Hopefully I can handle with R at the end of this semester.
+
+- [**@Yumeng2022**](https://github.com/Yumeng2022) When I was 5 I wanted to be a detective. <img src="https://avatars.githubusercontent.com/u/112013415?v=4" alt="github pic" width="40px"> 
+- [**@rainane007**](https://github.com/rainane007/) Hi everyone! I am Yuhong, a first year PhD student in Epidemiology.
+
+- [**@tzuyuhua**](https://github.com/tzuyuhua/) MS biostats, final semester, if I can finish my thesis in time, pizza is delicious, so are fried chicken and boba tea. But calorie no no good.
+
+- [**@sanyu23333**](https://github.com/sanyu23333) This is Sean. I like playing soccer, and I hope this time Messi can hold the World Cup. <img src="https://avatars.githubusercontent.com/u/111936849?v=4" alt="github pic" width="40px"> 
+
+- [**@mkhan58**](https://github.com/mkhan58/) Hello, I'm a graduate student in the Public Health Data Science program.
+- [**@marylee513**](https://github.com/marylee513) I worked as a registered dietitian before in a hospital. 
+
+- Margery0011 [**@Margery0011**](https://github.com/Margery0011/) My name is Yutian, I am from Chongqing, I love standup comedies.
+
+- [**@ChengHsiangLu**](https://github.com/ChengHsiangLu) Hello everyone. I'm Sam and I love to play basketball. <img src="https://avatars.githubusercontent.com/u/89505688?v=4" alt="github pic" width="40px"> 
+
+- [**@Cap2247**](https://github.com/Cap2247) i like pizza
+
+- [**@qiushipeng**](https://github.com/qiushipeng) Hi, I am Qiushi Peng, a master student majoring in Pharmaceutical Science.
+
+- [**@shkhyan**](https://github.com/shkhyan) I am a competitive spicy food eater. <img src="https://avatars.githubusercontent.com/u/111995300?v=4"> 
+
+- [**@eztang12**](https://github.com/eztang12) Hi everyone! I'm Echo, and I'm a progressive degree student getting my B.S. in Quantitative Biology and M.S. in Public Health Data Science.
+
 - megantra
-- Chenwei19970227
-- flemm0
-- vivi0903
+- [**ChenWei19970227**](https://github.com/chenwei19970227) Hi,I'm chen wei.I'm a huge cat lady.
+- [**flemm0**](https://github.com/flemm0) Greetings, my name's Flemming and I'm an M.S. student in Bioinformatics. Also I like to snowboard and I'm from LA.
+- [**vivi0903**](https://github.com/vivi0903)I love my doddy Wanzi. <img src="https://avatars.githubusercontent.com/u/111720993?v=4" alt="github pic" width="40px"> 
+
 - yanyanming77
-- v-yin
-- yating-zeng
-- bunny-cop
+- [**v-yin**] (https://github.com/v-yin/) I am a MD/MPH student interested in data science and Thoracic Surgery!
+- yating-zeng [**@yating-zeng**](https://github.com/yating-zeng) This is Yating, a second year student in Biostats.
+- bunny-cop [**bunny-cop**](https://github.com/bunny-cop/)bunny cop456
+
 
 ## Instructor
 
-ksiegmund
-
+[**@ksiegmund**](https://github.com/ksiegmund) I love to travel. <img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px">
 
 # PM566 Fall 2021 students
 
@@ -184,7 +199,6 @@ git push
 - [**@stephtring**](https://github.com/stephtring/PM566-fall2020-whoami) Hola nice to meet ya'll
 
 - [**@shiyushen**](https://github.com/shiyushen)I am now in China. 
-
 
 ## Instructors
 
