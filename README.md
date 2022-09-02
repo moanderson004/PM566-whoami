@@ -26,7 +26,8 @@ repository.
 
 # PM566 Fall 2022 students
 
-- kailaan00
+- [**@kailaan00**](https://github.com/kailaan00) Hello, my name is Kaila An! I am an MPH student graduating in Spring of 2023.
+
 
 - [**@CBSC73**](https://github.com/CBSC73) I love snow dogs and winter. <img src ="https://hellobark.com/wp-content/uploads/samoyed-flowers.jpg" alt="github pic" width = "40px">
 
