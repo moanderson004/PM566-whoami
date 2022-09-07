@@ -47,6 +47,7 @@ repository.
 - [**@sanyu23333**](https://github.com/sanyu23333) This is Sean. I like playing soccer, and I hope this time Messi can hold the World Cup. <img src="https://avatars.githubusercontent.com/u/111936849?v=4" alt="github pic" width="40px"> 
 
 - [**@mkhan58**](https://github.com/mkhan58/) Hello, I'm a graduate student in the Public Health Data Science program.
+
 - [**@marylee513**](https://github.com/marylee513) I worked as a registered dietitian before in a hospital. 
 
 - Margery0011 [**@Margery0011**](https://github.com/Margery0011/) My name is Yutian, I am from Chongqing, I love standup comedies.
@@ -61,7 +62,8 @@ repository.
 
 - [**@eztang12**](https://github.com/eztang12) Hi everyone! I'm Echo, and I'm a progressive degree student getting my B.S. in Quantitative Biology and M.S. in Public Health Data Science.
 
-- megantra
+- [**megantra**](https://github.com/megantra) Hi! I'm a second year MPH student with a concentration in Epidemiology/Biostatistics. I'm from the Bay Area.
+
 - [**ChenWei19970227**](https://github.com/chenwei19970227) Hi,I'm chen wei.I'm a huge cat lady.
 - [**flemm0**](https://github.com/flemm0) Greetings, my name's Flemming and I'm an M.S. student in Bioinformatics. Also I like to snowboard and I'm from LA.
 - [**vivi0903**](https://github.com/vivi0903)I love my doddy Wanzi. <img src="https://avatars.githubusercontent.com/u/111720993?v=4" alt="github pic" width="40px"> 
