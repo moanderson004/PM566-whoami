@@ -72,6 +72,7 @@ repository.
 - [**v-yin**] (https://github.com/v-yin/) I am a MD/MPH student interested in data science and Thoracic Surgery!
 - yating-zeng [**@yating-zeng**](https://github.com/yating-zeng) This is Yating, a second year student in Biostats.
 - bunny-cop [**bunny-cop**](https://github.com/bunny-cop/)bunny cop456
+- [**@wenhaowhyy**](https://github.com/wenhaowhyy/) Hello! Trying to figure out R
 
 
 ## Instructor
