@@ -73,6 +73,8 @@ repository.
 - bunny-cop [**bunny-cop**](https://github.com/bunny-cop/)bunny cop456
 - [**@wenhaowhyy**](https://github.com/wenhaowhyy/) Hello! Trying to figure out R
 
+- [**@scl301**](https://github.com/scl301/) Hi I'm Stephanie and my name and initials made it very difficult for me to find a unique username!
+
 
 ## Instructor
 
