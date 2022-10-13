@@ -72,6 +72,8 @@ repository.
 - yating-zeng [**@yating-zeng**](https://github.com/yating-zeng) This is Yating, a second year student in Biostats.
 - bunny-cop [**bunny-cop**](https://github.com/bunny-cop/)bunny cop456
 
+[**scl301**](https://github.com/scl301/) I moved to the Bay Area from Shanghai in 5th grade.
+
 
 ## Instructor
 
