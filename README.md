@@ -8,12 +8,12 @@ You need to make a fork of this repository, find your name in the list below, an
 
 For example, this is what I did with mine:
 
-> [**@ksiegmund**](https://github.com/ksiegmund) When I was in 6th grade I wanted to become an airline pilot. <img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
+> [**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px"> 
 
-Notice the figure of my username (that's optional and fun). This is the code I used of writing that line:
+The picture at the end is optional (but fun!) and can come from anywhere on the internet. This is the code I used to create my intro:
 
 ```md
-[**@ksiegmund**](https://github.com/ksiegmund) When I was in 6th grade I wanted to become an airline pilot. <img src="https://avatars.githubusercontent.com/u/8010048?v=4" alt="github pic" width="40px"> 
+[**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px">
 ```
 
 Look for your GitHub username and add a link to your Github profile and something about
@@ -23,6 +23,12 @@ username! If you don't see your username, just add it at the end of the list (an
 Once you are done, submit a
 [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to include your information in the original
 repository.
+
+# PM566 Fall 2023 students
+
+## Instructor
+
+[**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px"> 
 
 # PM566 Fall 2022 students
 
@@ -58,7 +64,7 @@ repository.
 
 - [**@qiushipeng**](https://github.com/qiushipeng) Hi, I am Qiushi Peng, a master student majoring in Pharmaceutical Science.
 
-- [**@shkhyan**](https://github.com/shkhyan) I am a competitive spicy food eater. <img src="https://avatars.githubusercontent.com/u/111995300?v=4"> 
+- [**@shkhyan**](https://github.com/shkhyan) I am a competitive spicy food eater. <img src="https://avatars.githubusercontent.com/u/111995300?v=4" width="40px"> 
 
 - [**@eztang12**](https://github.com/eztang12) Hi everyone! I'm Echo, and I'm a progressive degree student getting my B.S. in Quantitative Biology and M.S. in Public Health Data Science.
 
