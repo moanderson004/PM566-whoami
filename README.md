@@ -18,7 +18,7 @@ The picture at the end is optional (but fun!) and can come from anywhere on the 
 
 Look for your GitHub username and add a link to your Github profile and something about
 yourself you don't mind sharing publicly. Remember to only modify the line with your
-username! If you don't see your username, just add it at the end of the list (and see what happens!).
+name! If you don't see your name, just add it at the end of the list (and see what happens!).
 
 Once you are done, submit a
 [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to include your information in the original
