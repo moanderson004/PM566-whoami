@@ -40,7 +40,8 @@ craj
 
 [**@dianalilytang**](https://github.com/dianalilytang/) I am an MD/MPH student who just adopted two tuxedo kittens with my SO!
 
-eeross
+[**@eeross**](https://github.com/er12457/) I'm Erin an MD/MPH student, I love watching raccoon videos
+
 emlongo
 hsihsuan
 jdelao
