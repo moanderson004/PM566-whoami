@@ -42,9 +42,6 @@ craj
 
 [**@dianalilytang**](https://github.com/dianalilytang/) I am an MD/MPH student who just adopted two tuxedo kittens with my SO!
 
-eeross
-emlongo
-
 [**@sbrinah**](https://github.com/sbrinah/)Hi, my name is Sabrina. I love dogs and watch baseball.
 
 jdelao
@@ -53,7 +50,9 @@ kninh
 kyraguy
 lianyanw
 luwenjia
-mdh01908
+
+[**@mdh01908**](https://github.com/mdh01908) My name is Michelle, I am a MS student in Biostats & I work part-time at a bakery in Silver Lake! If you want a pastry lmk.
+
 obinelo
 occhino
 oljaca
