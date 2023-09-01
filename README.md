@@ -34,11 +34,12 @@ chenjiak
 cle63288
 craj
 
+ecagle [**erincag**](https://github.com/erincag) Hi, my name is Erin! I am in the BKN program, and I have a twin brother! 
+
 [**@DerekWalk**]("https://github.com/DerekWalk) My name is Derek and I enjoy playing soccer. <img src="https://freepngimg.com/thumb/ball/58035-fifa-brazil-ball-adidas-cup-brazuca-world.png" width="40px"> 
 
 [**@dianalilytang**](https://github.com/dianalilytang/) I am an MD/MPH student who just adopted two tuxedo kittens with my SO!
 
-ecagle
 eeross
 emlongo
 hsihsuan
