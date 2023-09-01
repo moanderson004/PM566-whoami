@@ -61,7 +61,13 @@ ssli: [**@lishirley97**](https://github.com/lishirley97) I love cats and enjoy d
 
 [**@skzhong1219**](https://github.com/skzhong1219) I am an M.S. in Applied Biostats and Epi student. I love to dance!
 
-tjgallag
+
+
+tjgallag [**@TylerJGallagher**](https://github.com/TylerJGallagher/) I am an MD/MPH student who was very confused by this assignment but made it through :) ! Also, I do otolaryngology and like exercise. 
+
+
+
+
 vkunta
 vsramos
 weixip
