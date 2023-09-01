@@ -51,7 +51,7 @@ occhino
 oljaca
 qizhang7
 seanmkim
-- [**@mosenxiong**](https://github.com/mosenxiong) Hi, here is senxiong. I am master student majoring in Biostatistics. I love milk tea!
+- [**@mosenxiong**](https://github.com/mosenxiong) Hi, here is senxiong. I am master student majoring in Biostatistics. I love milk tea! 
 skzhong
 ssli
 tjgallag
