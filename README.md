@@ -55,14 +55,12 @@ vsramos: (https://github.com/soniavsd) I am not good at coding but I enjoy it.
 
 [**@skzhong1219**](https://github.com/skzhong1219) I am an M.S. in Applied Biostats and Epi student. I love to dance!
 
-tjgallag
-vkunta
-vsramos
-weixip
+yunqingk
+
+- [**@derekxu6496449**](https://github.com/derekxu6496449) Hello, my name is derek and I'm a huge 
+fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?v=4" alt="github pic" width="40px"> 
 
 [**@yunqingk**](https://github.com/yunqingk/) Hi everyone! My name is Karisa and I'm a new graduate student. 
-
-yxu51088
 
 [**@zhousich**](https://github.com/zhousich/) I made this crochet scarf for my dog over break. <img src="https://avatars.githubusercontent.com/u/111803321?v=4" alt="github pic" width="40px"> 
 
