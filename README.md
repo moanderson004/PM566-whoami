@@ -43,12 +43,7 @@ arguetar
 
 [**@mdh01908**](https://github.com/mdh01908) My name is Michelle, I am a MS student in Biostats & I work part-time at a bakery in Silver Lake! If you want a pastry lmk.
 
-obinelo
-occhino
-oljaca
-qizhang7
-seanmkim
-senxiong
+[***@seanmkim1***] (https://github.com/seanmkim1) - I'm from San Francisco, I'm a current MD/MPH student at Keck. I love surfing and trying new foods and recipes!
 
 [**@lishirley97**](https://github.com/lishirley97) I love cats and enjoy drawing, cooking, gardening, and crocheting! <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.18169-9/385991_180321938726627_1650416668_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=s7Zsn48fu5cAX_BRu4W&_nc_ht=scontent-lax3-1.xx&oh=00_AfB05EiUIWPXKUWgSKcmgiqtEMHQBMpYMdEP9KbEy1F-nQ&oe=65199492" alt="github pic" width="40px">
 
