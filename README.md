@@ -33,11 +33,14 @@ arguetar
 
 [**@monabr4**](https://github.com/monabr4/)  My name is Mona and I am a first-year graduate student in the M.S. Public Health Data Science Program. I like to dance bachata in my free time.
 
+
 [**erincag**](https://github.com/erincag) Hi, my name is Erin! I am in the BKN program, and I have a twin brother! 
 
 [**@DerekWalk**]("https://github.com/DerekWalk) My name is Derek and I enjoy playing soccer. <img src="https://freepngimg.com/thumb/ball/58035-fifa-brazil-ball-adidas-cup-brazuca-world.png" width="40px"> 
 
 [**@dianalilytang**](https://github.com/dianalilytang/) I am an MD/MPH student who just adopted two tuxedo kittens with my SO!
+
+[**@lishirley97**](https://github.com/lishirley97) I love cats and enjoy drawing, cooking, gardening, and crocheting! <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.18169-9/385991_180321938726627_1650416668_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=s7Zsn48fu5cAX_BRu4W&_nc_ht=scontent-lax3-1.xx&oh=00_AfB05EiUIWPXKUWgSKcmgiqtEMHQBMpYMdEP9KbEy1F-nQ&oe=65199492" alt="github pic" width="40px">
 
 [**@sbrinah**](https://github.com/sbrinah/)Hi, my name is Sabrina. I love dogs and watch baseball.
 
@@ -49,13 +52,17 @@ arguetar
 
 [**@skzhong1219**](https://github.com/skzhong1219) I am an M.S. in Applied Biostats and Epi student. I love to dance!
 
+
 tjgallag
 vkunta
 vsramos
 weixip
 yunqingk
 yxu51088
-zhousich
+
+[**@zhousich**](https://github.com/zhousich/) I made this crochet scarf for my dog over break. <img src="https://avatars.githubusercontent.com/u/111803321?v=4" alt="github pic" width="40px"> 
+
+
 
 ## Instructor
 
