@@ -30,7 +30,7 @@ aflouie
 arguetar
 bandov
 breyonne
-chenjiak
+[**chenjiakk**](https://github.com/chenjiakk) Hi!I am Chnejia and I am in applied biostatistics and epidemiology program.
 cle63288
 craj
 
