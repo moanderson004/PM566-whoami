@@ -31,7 +31,11 @@ arguetar
 bandov
 breyonne
 chenjiak
+
+
 [**@catherinele2020**](https://github.com/catherinele2020) I just adopted a puppy named Bucky ! He is very sweet but he is in his teething stage and loves to use my arm as a chew toy.
+
+
 craj
 derekwal
 dltang
