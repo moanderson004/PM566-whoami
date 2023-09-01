@@ -47,7 +47,7 @@ jdelao
 jiwooc
 kninh
 kyraguy
-lianyanw
+lianyanw: I have three lovely cats!
 luwenjia
 mdh01908
 obinelo
