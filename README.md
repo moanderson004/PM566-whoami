@@ -26,7 +26,45 @@ repository.
 
 # PM566 Fall 2023 students
 
-aflouiearguetarbandovbreyonnechenjiakcle63288crajderekwaldltangecagleeerossemlongohsihsuanjdelaojiwoockninhkyraguylianyanwluwenjiamdh01908obineloocchinooljacaqizhang7seanmkimsenxiongskzhongsslitjgallagvkuntavsramosweixipyunqingkyxu51088zhousich
+aflouie
+arguetar
+bandov
+breyonne
+chenjiak
+cle63288
+craj
+derekwal
+dltang
+ecagle
+eeross
+emlongo
+hsihsuan
+jdelao
+jiwooc
+kninh
+kyraguy
+lianyanw
+luwenjia
+mdh01908
+obinelo
+occhino
+oljaca
+qizhang7
+
+
+[***@seanmkim1***] (https://github.com/seanmkim1) - I'm from San Francisco, I'm a current MD/MPH student at Keck. I love surfing and trying new foods and recipes!
+
+
+senxiong
+skzhong
+ssli
+tjgallag
+vkunta
+vsramos
+weixip
+yunqingk
+yxu51088
+zhousich
 
 ## Instructor
 
