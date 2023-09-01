@@ -26,7 +26,41 @@ repository.
 
 # PM566 Fall 2023 students
 
-aflouiearguetarbandovbreyonnechenjiakcle63288crajderekwaldltangecagleeerossemlongohsihsuanjdelaojiwoockninhkyraguylianyanwluwenjiamdh01908obineloocchinooljacaqizhang7seanmkimsenxiongskzhongsslitjgallagvkuntavsramosweixipyunqingkyxu51088zhousich
+aflouie
+arguetar
+bandov
+breyonne
+chenjiak
+cle63288
+craj
+derekwal
+dltang
+ecagle
+eeross
+emlongo
+hsihsuan
+jdelao
+jiwooc
+kninh
+[**@kyraguy**](https://github.com/kyraguy) I am a first year PhD student and I am from the bay area!  
+lianyanw
+luwenjia
+mdh01908
+obinelo
+occhino
+oljaca
+qizhang7
+seanmkim
+senxiong
+skzhong
+ssli
+tjgallag
+vkunta
+vsramos
+weixip
+yunqingk
+yxu51088
+zhousich
 
 ## Instructor
 
