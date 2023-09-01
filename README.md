@@ -34,7 +34,9 @@ chenjiak
 cle63288
 craj
 derekwal
-dltang
+
+[**@dianalilytang**](https://github.com/dianalilytang/) I am an MD/MPH student who just adopted two tuxedo kittens with my SO!
+
 ecagle
 eeross
 emlongo
@@ -52,7 +54,9 @@ oljaca
 qizhang7
 seanmkim
 senxiong
+
 [**@skzhong1219**](https://github.com/skzhong1219) I am an M.S. in Applied Biostats and Epi student. I love to dance!
+
 ssli
 tjgallag
 vkunta
