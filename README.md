@@ -34,11 +34,10 @@ chenjiak
 cle63288
 craj
 
-
 [**@DerekWalk**]("https://github.com/DerekWalk) My name is Derek and I enjoy playing soccer. <img src="https://freepngimg.com/thumb/ball/58035-fifa-brazil-ball-adidas-cup-brazuca-world.png" width="40px"> 
 
+[**@dianalilytang**](https://github.com/dianalilytang/) I am an MD/MPH student who just adopted two tuxedo kittens with my SO!
 
-dltang
 ecagle
 eeross
 emlongo
@@ -56,7 +55,9 @@ oljaca
 qizhang7
 seanmkim
 senxiong
-skzhong
+
+[**@skzhong1219**](https://github.com/skzhong1219) I am an M.S. in Applied Biostats and Epi student. I love to dance!
+
 ssli
 tjgallag
 vkunta
