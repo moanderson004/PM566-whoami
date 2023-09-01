@@ -52,7 +52,7 @@ oljaca
 qizhang7
 seanmkim
 senxiong
-skzhong [**@skzhong1219**](https://github.com/skzhong1219) I am an M.S. in Applied Biostats and Epi student. I love to dance!
+[**@skzhong1219**](https://github.com/skzhong1219) I am an M.S. in Applied Biostats and Epi student. I love to dance!
 ssli
 tjgallag
 vkunta
