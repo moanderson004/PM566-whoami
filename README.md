@@ -42,7 +42,9 @@ craj
 
 eeross
 emlongo
-hsihsuan
+
+[**@sbrinah**](https://github.com/sbrinah/)Hi, my name is Sabrina. I love dogs and watch baseball.
+
 jdelao
 jiwooc
 kninh
