@@ -29,6 +29,8 @@ repository.
 aflouie
 arguetar
 
+vsramos: (https://github.com/soniavsd) I am not good at coding but I enjoy it.
+
 [**@kyraguy**](https://github.com/kyraguy) I am a first year PhD student and I am from the bay area!  
 
 [**@catherinele2020**](https://github.com/catherinele2020) I just adopted a puppy named Bucky ! He is very sweet but he is in his teething stage and loves to use my arm as a chew toy.
