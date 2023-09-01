@@ -26,7 +26,51 @@ repository.
 
 # PM566 Fall 2023 students
 
-aflouiearguetarbandovbreyonnechenjiakcle63288crajderekwaldltangecagleeerossemlongohsihsuanjdelaojiwoockninhkyraguylianyanwluwenjiamdh01908obineloocchinooljacaqizhang7seanmkimsenxiongskzhongsslitjgallagvkuntavsramosweixipyunqingkyxu51088zhousich
+aflouie
+arguetar
+bandov
+breyonne
+chenjiak
+cle63288
+craj
+derekwal
+dltang
+
+
+
+
+
+ecagle [**erincag**](https://github.com/erincag) Hi, my name is Erin! I am in the BKN program, and I have a twin brother! 
+
+
+
+
+
+eeross
+emlongo
+hsihsuan
+jdelao
+jiwooc
+kninh
+kyraguy
+lianyanw
+luwenjia
+mdh01908
+obinelo
+occhino
+oljaca
+qizhang7
+seanmkim
+senxiong
+skzhong
+ssli
+tjgallag
+vkunta
+vsramos
+weixip
+yunqingk
+yxu51088
+zhousich
 
 ## Instructor
 
