@@ -26,7 +26,41 @@ repository.
 
 # PM566 Fall 2023 students
 
-aflouiearguetarbandovbreyonnechenjiakcle63288crajderekwaldltangecagleeerossemlongohsihsuanjdelaojiwoockninhkyraguylianyanwluwenjiamdh01908obineloocchinooljacaqizhang7seanmkimsenxiongskzhongsslitjgallagvkuntavsramosweixipyunqingkyxu51088zhousich
+aflouie
+arguetar
+bandov
+breyonne
+chenjiak
+cle63288
+craj
+derekwal
+dltang
+ecagle
+eeross
+emlongo
+hsihsuan
+jdelao
+jiwooc
+kninh
+kyraguy
+lianyanw
+luwenjia
+[**@mdh01908**](https://github.com/mdh01908) My name is Michelle, I am a MS student in Biostats & I work part-time at a bakery in Silver Lake! If you want a pastry lmk.
+obinelo
+occhino
+oljaca
+qizhang7
+seanmkim
+senxiong
+skzhong
+ssli
+tjgallag
+vkunta
+vsramos
+weixip
+yunqingk
+yxu51088
+zhousich
 
 ## Instructor
 
