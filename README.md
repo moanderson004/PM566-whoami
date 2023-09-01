@@ -29,12 +29,9 @@ repository.
 aflouie
 arguetar
 
-[**@monabr4**](https://github.com/monabr4/)  My name is Mona and I am a first-year graduate student in the M.S. Public Health Data Science Program. I like to dance bachata in my free time.
+[**@catherinele2020**](https://github.com/catherinele2020) I just adopted a puppy named Bucky ! He is very sweet but he is in his teething stage and loves to use my arm as a chew toy.
 
-breyonne
-chenjiak
-cle63288
-craj
+[**@monabr4**](https://github.com/monabr4/)  My name is Mona and I am a first-year graduate student in the M.S. Public Health Data Science Program. I like to dance bachata in my free time.
 
 [**erincag**](https://github.com/erincag) Hi, my name is Erin! I am in the BKN program, and I have a twin brother! 
 
@@ -43,13 +40,6 @@ craj
 [**@dianalilytang**](https://github.com/dianalilytang/) I am an MD/MPH student who just adopted two tuxedo kittens with my SO!
 
 [**@sbrinah**](https://github.com/sbrinah/)Hi, my name is Sabrina. I love dogs and watch baseball.
-
-jdelao
-jiwooc
-kninh
-kyraguy
-lianyanw
-luwenjia
 
 [**@mdh01908**](https://github.com/mdh01908) My name is Michelle, I am a MS student in Biostats & I work part-time at a bakery in Silver Lake! If you want a pastry lmk.
 
