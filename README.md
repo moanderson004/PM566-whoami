@@ -26,7 +26,46 @@ repository.
 
 # PM566 Fall 2023 students
 
-aflouiearguetarbandovbreyonnechenjiakcle63288crajderekwaldltangecagleeerossemlongohsihsuanjdelaojiwoockninhkyraguylianyanwluwenjiamdh01908obineloocchinooljacaqizhang7seanmkimsenxiongskzhongsslitjgallagvkuntavsramosweixipyunqingkyxu51088zhousich
+aflouie
+arguetar
+bandov
+breyonne
+chenjiak
+cle63288
+craj
+derekwal
+dltang
+ecagle
+eeross
+emlongo
+hsihsuan
+jdelao
+jiwooc
+kninh
+kyraguy
+lianyanw
+luwenjia
+mdh01908
+obinelo
+occhino
+oljaca
+qizhang7
+seanmkim
+senxiong
+skzhong
+ssli
+tjgallag
+vkunta
+vsramos
+weixip
+yunqingk
+
+
+- [**@derekxu6496449**](https://github.com/derekxu6496449) Hello, my name is derek and I'm a huge 
+fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?v=4" alt="github pic" width="40px"> 
+
+
+zhousich
 
 ## Instructor
 
