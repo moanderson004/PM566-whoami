@@ -29,6 +29,8 @@ repository.
 aflouie
 arguetar
 
+[**@kyraguy**](https://github.com/kyraguy) I am a first year PhD student and I am from the bay area!  
+
 [**@catherinele2020**](https://github.com/catherinele2020) I just adopted a puppy named Bucky ! He is very sweet but he is in his teething stage and loves to use my arm as a chew toy.
 
 [**@monabr4**](https://github.com/monabr4/)  My name is Mona and I am a first-year graduate student in the M.S. Public Health Data Science Program. I like to dance bachata in my free time.
