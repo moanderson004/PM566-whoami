@@ -26,6 +26,9 @@ repository.
 
 # PM566 Fall 2023 students
 
+
+- [**@mosenxiong**](https://github.com/mosenxiong) Hi, here is senxiong. I am master student majoring in Biostatistics. I love milk tea! 
+
 - [**@aflouie**](https://github.com/aflouie) I am allergic to papaya. <img src="https://www.purveyd.com/cdn/shop/products/PAPAYA-YELLOW_600x.jpg?v=1652116272" width="40px">
 
 vsramos: (https://github.com/soniavsd) I am not good at coding but I enjoy it.
@@ -60,6 +63,7 @@ fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?
 [**@yunqingk**](https://github.com/yunqingk/) Hi everyone! My name is Karisa and I'm a new graduate student. 
 
 [**@zhousich**](https://github.com/zhousich/) I made this crochet scarf for my dog over break. <img src="https://avatars.githubusercontent.com/u/111803321?v=4" alt="github pic" width="40px"> 
+
 
 
 ## Instructor
