@@ -51,6 +51,8 @@ vsramos: (https://github.com/soniavsd) I am not good at coding but I enjoy it.
 
 [**@sbrinah**](https://github.com/sbrinah/)Hi, my name is Sabrina. I love dogs and watch baseball.
 
+[**@WennyLuu**](https://github.com/WennyLuu/)Hi, my name is Wenny and I'm a cat.
+
 [**@mdh01908**](https://github.com/mdh01908) My name is Michelle, I am a MS student in Biostats & I work part-time at a bakery in Silver Lake! If you want a pastry lmk.
 
 [***@seanmkim1***] (https://github.com/seanmkim1) - I'm from San Francisco, I'm a current MD/MPH student at Keck. I love surfing and trying new foods and recipes!
