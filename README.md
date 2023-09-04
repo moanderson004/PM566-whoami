@@ -26,6 +26,7 @@ repository.
 
 # PM566 Fall 2023 students
 
+[@kninh1](https://github.com/kninh1) - I like snowboarding
 
 - [**@mosenxiong**](https://github.com/mosenxiong) Hi, here is senxiong. I am master student majoring in Biostatistics. I love milk tea! 
 
