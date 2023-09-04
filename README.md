@@ -71,6 +71,7 @@ fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?
 
 [**@zhousich**](https://github.com/zhousich/) I made this crochet scarf for my dog over break. <img src="https://avatars.githubusercontent.com/u/111803321?v=4" alt="github pic" width="40px"> 
 
+[**@jaysondelao**](https://github.com/jaysondelao/) I like to run and hope to run my first marathon this year.
 
 ## Instructor
 
