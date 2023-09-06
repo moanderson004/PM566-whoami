@@ -73,6 +73,8 @@ fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?
 
 [**@jaysondelao**](https://github.com/jaysondelao/) I like to run and hope to run my first marathon this year.
 
+[**@incrediblecici**](https://github.com/incrediblecici/) Hi I am Weixi Pan and I like you just call me Cici.
+
 ## Instructor
 
 [**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px"> 
