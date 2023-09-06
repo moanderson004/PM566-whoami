@@ -47,7 +47,9 @@ jdelao
 jiwooc
 kninh
 kyraguy
+
 lianyanw: [**@lydiawangli**](https://github.com/lydiawangli/) I have three lovely cats!
+
 luwenjia
 mdh01908
 obinelo
