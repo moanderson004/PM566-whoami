@@ -1,4 +1,4 @@
-<img width="1231" alt="image" src="https://github.com/Hahh77/PM566-whoami/assets/122310563/f0c2649e-469f-4813-bb90-ceca73163cd0"># Intro to Public Health Data Science
+# Intro to Public Health Data Science
 
 You need to make a fork of this repository, find your name in the list below, and replace it with something like:
 
