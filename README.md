@@ -1,4 +1,4 @@
-# Intro to Public Health Data Science
+<img width="1231" alt="image" src="https://github.com/Hahh77/PM566-whoami/assets/122310563/f0c2649e-469f-4813-bb90-ceca73163cd0"># Intro to Public Health Data Science
 
 You need to make a fork of this repository, find your name in the list below, and replace it with something like:
 
@@ -74,6 +74,8 @@ fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?
 [**@jaysondelao**](https://github.com/jaysondelao/) I like to run and hope to run my first marathon this year.
 
 [**@incrediblecici**](https://github.com/incrediblecici/) Hi I am Weixi Pan and I like you just call me Cici.
+
+[**@Hahh77**](https://github.com/Hahh77/) Hello everyone! My name is Qi Zhang and I like hiking.
 
 ## Instructor
 
