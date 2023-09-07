@@ -79,7 +79,7 @@ fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?
 
 [**@Hahh77**](https://github.com/Hahh77/) Hello everyone! My name is Qi Zhang and I like hiking.
 
-[**@vkcurry**] (https://github.com/vkcurry/) I am second year MS in Applied Biostats and Epi and I love to travel!
+[**@vkcurry**](https://github.com/vkcurry/) I am a second year MS student in Applied Biostats and Epi and I love to travel!
 
 ## Instructor
 
