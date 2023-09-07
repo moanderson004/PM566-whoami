@@ -26,6 +26,8 @@ repository.
 
 # PM566 Fall 2023 students
 
+[@williamsbre23](https://github.com/williamsbre23) 2nd year BKN Masters student
+
 [@kninh1](https://github.com/kninh1) - I like snowboarding
 
 - [**@mosenxiong**](https://github.com/mosenxiong) Hi, here is senxiong. I am master student majoring in Biostatistics. I love milk tea! 
