@@ -81,6 +81,11 @@ fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?
 
 [**(@emlongo)**](https://github.com/emlongo) Hi everyone! I'm an MD/MPH student, I'm from Seattle & I love running! 
 
+[**@moljaca3**] (https://github.com/moljaca3) I'm from San Diego and a current MD/MPH student at Keck. I love yoga and trying new restaurants!
+
+[**@vkcurry**](https://github.com/vkcurry/) I am a second year MS student in Applied Biostats and Epi and I love to travel!
+
+
 ## Instructor
 
 [**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px"> 
