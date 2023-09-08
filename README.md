@@ -79,7 +79,7 @@ fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?
 
 [**@Hahh77**](https://github.com/Hahh77/) Hello everyone! My name is Qi Zhang and I like hiking.
 
-[**(emlongo)**](https://github.com/emlongo) Hi everyone! I'm an MD/MPH student, I'm from Seattle & I love running! 
+[**(@emlongo)**](https://github.com/emlongo) Hi everyone! I'm an MD/MPH student, I'm from Seattle & I love running! 
 
 ## Instructor
 
