@@ -26,13 +26,23 @@ repository.
 
 # PM566 Fall 2023 students
 
-aflouie
-arguetar
-bandov
-breyonne
 [**chenjiakk**](https://github.com/chenjiakk) Hi!I am Chnejia and I am in applied biostatistics and epidemiology program.
-cle63288
-craj
+
+[@williamsbre23](https://github.com/williamsbre23) 2nd year BKN Masters student
+
+[@kninh1](https://github.com/kninh1) - I like snowboarding
+
+- [**@mosenxiong**](https://github.com/mosenxiong) Hi, here is senxiong. I am master student majoring in Biostatistics. I love milk tea! 
+
+- [**@aflouie**](https://github.com/aflouie) I am allergic to papaya. <img src="https://www.purveyd.com/cdn/shop/products/PAPAYA-YELLOW_600x.jpg?v=1652116272" width="40px">
+
+vsramos: (https://github.com/soniavsd) I am not good at coding but I enjoy it.
+
+[**@kyraguy**](https://github.com/kyraguy) I am a first year PhD student and I am from the bay area!  
+
+[**@catherinele2020**](https://github.com/catherinele2020) I just adopted a puppy named Bucky ! He is very sweet but he is in his teething stage and loves to use my arm as a chew toy.
+
+[**@monabr4**](https://github.com/monabr4/)  My name is Mona and I am a first-year graduate student in the M.S. Public Health Data Science Program. I like to dance bachata in my free time.
 
 [**erincag**](https://github.com/erincag) Hi, my name is Erin! I am in the BKN program, and I have a twin brother! 
 
@@ -40,34 +50,47 @@ craj
 
 [**@dianalilytang**](https://github.com/dianalilytang/) I am an MD/MPH student who just adopted two tuxedo kittens with my SO!
 
-eeross
-emlongo
-hsihsuan
-jdelao
-jiwooc
-kninh
-kyraguy
-lianyanw
-luwenjia
-mdh01908
-obinelo
-occhino
-oljaca
-qizhang7
-seanmkim
-senxiong
+lianyanw: [**@lydiawangli**](https://github.com/lydiawangli/) I have three lovely cats!
 
-ssli: [**@lishirley97**](https://github.com/lishirley97) I love cats and enjoy drawing, cooking, gardening, and crocheting! <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.18169-9/385991_180321938726627_1650416668_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=s7Zsn48fu5cAX_BRu4W&_nc_ht=scontent-lax3-1.xx&oh=00_AfB05EiUIWPXKUWgSKcmgiqtEMHQBMpYMdEP9KbEy1F-nQ&oe=65199492" alt="github pic" width="40px">
+[**@eeross**](https://github.com/er12457/) I'm Erin an MD/MPH student, I love watching raccoon videos
+
+[**@lishirley97**](https://github.com/lishirley97) I love cats and enjoy drawing, cooking, gardening, and crocheting! <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.18169-9/385991_180321938726627_1650416668_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=s7Zsn48fu5cAX_BRu4W&_nc_ht=scontent-lax3-1.xx&oh=00_AfB05EiUIWPXKUWgSKcmgiqtEMHQBMpYMdEP9KbEy1F-nQ&oe=65199492" alt="github pic" width="40px">
+
+[**@sbrinah**](https://github.com/sbrinah/)Hi, my name is Sabrina. I love dogs and watch baseball.
+
+[**@WennyLuu**](https://github.com/WennyLuu/)Hi, my name is Wenny and I'm a cat.
+
+[**@mdh01908**](https://github.com/mdh01908) My name is Michelle, I am a MS student in Biostats & I work part-time at a bakery in Silver Lake! If you want a pastry lmk.
+
+[***@seanmkim1***] (https://github.com/seanmkim1) - I'm from San Francisco, I'm a current MD/MPH student at Keck. I love surfing and trying new foods and recipes!
 
 [**@skzhong1219**](https://github.com/skzhong1219) I am an M.S. in Applied Biostats and Epi student. I love to dance!
 
-tjgallag
-vkunta
-vsramos
-weixip
-yunqingk
-yxu51088
-zhousich
+tjgallag [**@TylerJGallagher**](https://github.com/TylerJGallagher/) I am an MD/MPH student who was very confused by this assignment but made it through :) ! Also, I do otolaryngology and like exercise. 
+
+- [**@derekxu6496449**](https://github.com/derekxu6496449) Hello, my name is derek and I'm a huge 
+fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?v=4" alt="github pic" width="40px"> 
+
+[**@yunqingk**](https://github.com/yunqingk/) Hi everyone! My name is Karisa and I'm a new graduate student. 
+
+[**@zhousich**](https://github.com/zhousich/) I made this crochet scarf for my dog over break. <img src="https://avatars.githubusercontent.com/u/111803321?v=4" alt="github pic" width="40px"> 
+
+[**@jaysondelao**](https://github.com/jaysondelao/) I like to run and hope to run my first marathon this year.
+
+[**@incrediblecici**](https://github.com/incrediblecici/) Hi I am Weixi Pan and I like you just call me Cici.
+
+[**@Hahh77**](https://github.com/Hahh77/) Hello everyone! My name is Qi Zhang and I like hiking.
+
+[**@debbieargueta3**](https://github.com/debbieargueta3/) Hello everyone! Happy to be here :).
+
+[**(@emlongo)**](https://github.com/emlongo) Hi everyone! I'm an MD/MPH student, I'm from Seattle & I love running! 
+
+[**@moljaca3**] (https://github.com/moljaca3) I'm from San Diego and a current MD/MPH student at Keck. I love yoga and trying new restaurants!
+
+[**@vkcurry**](https://github.com/vkcurry/) I am a second year MS student in Applied Biostats and Epi and I love to travel!
+
+[**@locchino**](https://github.com/locchino) I'm training for my first triathalon.
+
 
 ## Instructor
 
