@@ -26,6 +26,8 @@ repository.
 
 # PM566 Fall 2023 students
 
+[**chenjiakk**](https://github.com/chenjiakk) Hi!I am Chnejia and I am in applied biostatistics and epidemiology program.
+
 [@williamsbre23](https://github.com/williamsbre23) 2nd year BKN Masters student
 
 [@kninh1](https://github.com/kninh1) - I like snowboarding
