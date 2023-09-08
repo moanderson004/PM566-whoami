@@ -87,6 +87,8 @@ fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?
 
 [**@vkcurry**](https://github.com/vkcurry/) I am a second year MS student in Applied Biostats and Epi and I love to travel!
 
+[**@locchino**](https://github.com/locchino) I'm training for my first triathalon.
+
 
 ## Instructor
 
