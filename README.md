@@ -79,6 +79,8 @@ fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?
 
 [**@Hahh77**](https://github.com/Hahh77/) Hello everyone! My name is Qi Zhang and I like hiking.
 
+[**(@emlongo)**](https://github.com/emlongo) Hi everyone! I'm an MD/MPH student, I'm from Seattle & I love running! 
+
 [**@moljaca3**] (https://github.com/moljaca3) I'm from San Diego and a current MD/MPH student at Keck. I love yoga and trying new restaurants!
 
 [**@vkcurry**](https://github.com/vkcurry/) I am a second year MS student in Applied Biostats and Epi and I love to travel!
