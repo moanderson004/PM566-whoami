@@ -79,6 +79,8 @@ fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?
 
 [**@Hahh77**](https://github.com/Hahh77/) Hello everyone! My name is Qi Zhang and I like hiking.
 
+[**(emlongo)**](https://github.com/emlongo) Hi everyone! I'm an MD/MPH student, I'm from Seattle & I love running! 
+
 ## Instructor
 
 [**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px"> 
