@@ -91,6 +91,9 @@ fan of Real Madrid! <img src="https://avatars.githubusercontent.com/u/122310323?
 
 [**@locchino**](https://github.com/locchino) I'm training for my first triathalon.
 
+[**@slipior**](https://github.com/slipior) Hi, my name is Sylwia and I'm training for a half marathon.
+
+
 
 ## Instructor
 
