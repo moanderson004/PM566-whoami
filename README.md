@@ -6,11 +6,7 @@ You need to make a fork of this repository, find your name in the list below, an
 [**@username**](https://github.com/username/) something about you
 ```
 
-For example, this is what I did with mine:
-
-> [**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px"> 
-
-The picture at the end is optional (but fun!) and can come from anywhere on the internet. This is the code I used to create my intro:
+You can also add a small picture at the end. It's optional (but fun!) and can come from anywhere on the internet. Here is the code I used to create my intro, which you can use as a template:
 
 ```md
 [**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px">
@@ -18,11 +14,11 @@ The picture at the end is optional (but fun!) and can come from anywhere on the 
 
 Look for your GitHub username and add a link to your Github profile and something about
 yourself you don't mind sharing publicly. Remember to only modify the line with your
-name! If you don't see your name, just add it at the end of the list (and see what happens!).
+name! If you don't see your name, just add it at the end of the list.
 
 Once you are done, submit a
 [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to include your information in the original
-repository.
+repository (the USCbiostats version).
 
 # PM566 Fall 2023 students
 
