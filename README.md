@@ -20,6 +20,54 @@ Once you are done, submit a
 [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to include your information in the original
 repository (the USCbiostats version).
 
+# PM566 Fall 2024 students
+
+Hanin Almodaweb
+
+Patrick Casanas
+
+Liying Deng
+
+Kendall Dimson
+
+Carissa Feliciano
+
+Sahar Ghahramani
+
+Ellya Gholmieh
+
+Dana Gonzalez
+
+Jazmin Hernandez
+
+Arianna Hernandez Goncalves
+
+Alli Hoang
+
+Giuliet Kibler
+
+Katie Loomis
+
+Norma Marshall
+
+Si Shen
+
+Erica Shin
+
+Nicole Tang
+
+Isabella Villanueva
+
+Erin Yu
+
+Haoyu Yu
+
+## Instructors
+
+Jessica George
+
+[**@kstreet13**](https://github.com/kstreet13) One of my favorite places in the LA area is the Huntington. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px"> 
+
 # PM566 Fall 2023 students
 
 [**chenjiakk**](https://github.com/chenjiakk) Hi!I am Chnejia and I am in applied biostatistics and epidemiology program.
