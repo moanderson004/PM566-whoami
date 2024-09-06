@@ -34,7 +34,7 @@ Carissa Feliciano
 
 Sahar Ghahramani
 
-Ellya Gholmieh
+Ellya Gholmieh [**@KodzuKenma101**](https://github.com/KodzuKenma101/) I love Star Wars and have a Lego collection!
 
 Dana Gonzalez
 
