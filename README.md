@@ -30,7 +30,7 @@ Liying Deng
 
 Kendall Dimson
 
-Carissa Feliciano
+Carissa Feliciano - I am from the San Francisco Bay Area.
 
 Sahar Ghahramani
 
