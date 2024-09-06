@@ -58,7 +58,7 @@ Nicole Tang
 
 Isabella Villanueva
 
-Erin Yu
+Erin Yu I am from Orange County and I love pasta  
 
 Haoyu Yu
 
