@@ -50,7 +50,7 @@ Alli Hoang
 
 Katie Loomis
 
-Norma Marshall
+[**@normamarshall**](https://github.com/normamarshall/) Hi I'm Norma! I'm a first year student in the MPH program! I'm from Los Angeles and I enjoy trying new cold brews around town!<img src="https://media.licdn.com/dms/image/v2/D5603AQE_lhuh9GlOqw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1676502746204?e=1730937600&v=beta&t=q6Qm_LEqwsuiRRKYbotk_H6SpZoKFyVQdzEDg6pJyCA" width="40px"> 
 
 Si Shen
 
