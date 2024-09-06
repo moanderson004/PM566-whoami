@@ -42,7 +42,7 @@ Ellya Gholmieh [**@KodzuKenma101**](https://github.com/KodzuKenma101/) I love St
 
 Jazmin Hernandez
 
-Arianna Hernandez Goncalves
+[**@AriH-797**](https://github.com/AriH-797/) Hi! My name is Arianna and I am from Venezuela!
 
 Alli Hoang
 
