@@ -30,7 +30,9 @@ Liying Deng
 
 [**@kdimson22**](https://github.com/kdimson22) - I'm Kendall, second-year MPH biostat/epi student, and I like rock climbing :)
 
-Carissa Feliciano
+```md
+[**@carissafeliciano**](https://github.com/carissafeliciano) I am from the San Francisco Bay Area. 
+```
 
 Sahar Ghahramani
 
