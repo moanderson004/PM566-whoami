@@ -52,7 +52,7 @@ Norma Marshall
 
 Si Shen
 
-Erica Shin
+[**@ericays**](https://github.com/ericays/) Hi, I'm a second year MPH student in the epidemiology/biostatistics concentration!
 
 Nicole Tang
 
