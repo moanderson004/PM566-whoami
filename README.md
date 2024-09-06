@@ -52,7 +52,7 @@ Norma Marshall
 
 Si Shen
 
-Erica Shin
+[**@ericays**](https://github.com/ericays/) Hi, I'm a second year MPH student in the epidemiology/biostatistics concentration!
 
 [**@nktang05**](https://github.com/nktang05) I am a first year in the MS Public Health Data Science program. I am from Los Angeles and like trying out all the cafes and restaurants here!
 
