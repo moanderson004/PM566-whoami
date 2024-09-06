@@ -26,7 +26,7 @@ Hanin Almodaweb
 
 Patrick Casanas
 
-Liying Deng
+[**@Liying000888**](https://github.com/Liying000888/) - I'm Kristy, second year Master program in Biostatistics. 
 
 [**@kdimson22**](https://github.com/kdimson22) - I'm Kendall, second-year MPH biostat/epi student, and I like rock climbing :)
 
