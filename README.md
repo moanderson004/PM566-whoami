@@ -57,7 +57,7 @@ Erica Shin
 
 [**@nktang05**](https://github.com/nktang05) I am a first year in the MS Public Health Data Science program. I am from Los Angeles and like trying out all the cafes and restaurants here!
 
-Isabella Villanueva
+[**@bellavillan**] (https://github.com/bellavillan) I can speak French oui oui  
 
 Erin Yu
 
