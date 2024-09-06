@@ -28,7 +28,7 @@ Patrick Casanas
 
 Liying Deng
 
-Kendall Dimson
+Kendall Dimson I like rock climbing :)
 
 Carissa Feliciano
 
