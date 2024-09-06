@@ -28,7 +28,7 @@ Patrick Casanas
 
 Liying Deng
 
-Kendall Dimson - I like rock climbing :)
+[**@kdimson22**](https://github.com/kdimson22) - I like rock climbing :)
 
 Carissa Feliciano
 
