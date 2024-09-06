@@ -44,7 +44,7 @@ Arianna Hernandez Goncalves
 
 Alli Hoang
 
-Giuliet Kibler
+[**@giulietk**](https://github.com/giulietk/) I'm Giuliet Kibler and I'm from St. Louis, Missouri.
 
 Katie Loomis
 
