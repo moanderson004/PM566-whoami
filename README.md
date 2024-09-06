@@ -56,7 +56,7 @@ Erica Shin
 
 Nicole Tang
 
-Isabella Villanueva
+[**@bellavillan**] (https://github.com/bellavillan) I can speak French oui oui  
 
 Erin Yu
 
