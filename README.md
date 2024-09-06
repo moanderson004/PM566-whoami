@@ -50,7 +50,10 @@ Katie Loomis
 
 Norma Marshall
 
-Si Shen I love snowboarding,i m a regular ^_^ <imgscr="https://avatars.githubusercontent.com/u/179794031?s=400&u=6b972b24d7a20f62d8f4d426b0c17c305a5c608a&v=4"width="40px>"
+```md
+Si Shen 
+[**KessieSHEN**](https://github.com/KessieSHEN)I love snowboarding,i m a regular ^_^ <imgscr="https://avatars.githubusercontent.com/u/179794031?s=400&u=6b972b24d7a20f62d8f4d426b0c17c305a5c608a&v=4"width="40px>"
+```
 
 Erica Shin
 
