@@ -40,7 +40,7 @@ Dana Gonzalez
 
 Jazmin Hernandez
 
-[**@AriH-797**](https://github.com/AriH-797/) Hi! My name is Arianna and I am from Venezuela!<https://media.istockphoto.com/id/166639950/photo/tropical-white-sand-cay-beach-in-los-roques-venezuela.jpg?s=612x612&w=0&k=20&c=dYTg7nH1DLlEyecfykhacW0rBfK5pBCvTXa-ZlhfyPY=>
+[**@AriH-797**](https://github.com/AriH-797/) Hi! My name is Arianna and I am from Venezuela!
 
 Alli Hoang
 
