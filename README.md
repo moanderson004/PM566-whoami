@@ -30,9 +30,7 @@ Liying Deng
 
 Kendall Dimson
 
-```md
-[**@carissafeliciano**](https://github.com/carissafeliciano) I am from the San Francisco Bay Area. 
-```
+[**@carissafeliciano**](https://github.com/carissafeliciano) Hi! I'm Carissa, and I am from the San Francisco Bay Area. 
 
 Sahar Ghahramani
 
