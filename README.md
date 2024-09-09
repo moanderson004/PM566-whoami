@@ -52,7 +52,9 @@ Katie Loomis
 
 [**@normamarshall**](https://github.com/normamarshall/) Hi I'm Norma! I'm a first year student in the MPH program! I'm from Los Angeles and I enjoy trying new cold brews around town!<img src="https://media.licdn.com/dms/image/v2/D5603AQE_lhuh9GlOqw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1676502746204?e=1730937600&v=beta&t=q6Qm_LEqwsuiRRKYbotk_H6SpZoKFyVQdzEDg6pJyCA" width="40px"> 
 
-Si Shen
+
+Si SHEN
+[**KessieSHEN**](https://github.com/KessieSHEN)I love snowboarding,i m a regular ^_^ <imgscr="https://avatars.githubusercontent.com/u/179794031?s=400&u=6b972b24d7a20f62d8f4d426b0c17c305a5c608a&v=4"width="40px>"
 
 [**@ericays**](https://github.com/ericays/) Hi, I'm a second year MPH student in the epidemiology/biostatistics concentration!
 
