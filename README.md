@@ -27,41 +27,45 @@ repository (the USCbiostats version).
 
 Patrick Casanas
 
-Liying Deng
+[**@Liying000888**](https://github.com/Liying000888/) - I'm Kristy, second year Master program in Biostatistics. 
 
-Kendall Dimson
+[**@kdimson22**](https://github.com/kdimson22) - I'm Kendall, second-year MPH biostat/epi student, and I like rock climbing :)
 
-Carissa Feliciano
+```md
+[**@carissafeliciano**](https://github.com/carissafeliciano) I am from the San Francisco Bay Area. 
+```
 
 Sahar Ghahramani
 
-Ellya Gholmieh
+Ellya Gholmieh [**@KodzuKenma101**](https://github.com/KodzuKenma101/) I love Star Wars and have a Lego collection!
 
-Dana Gonzalez
+[**danagonz**] (https://github.com/danagonz) I'm a first year MPH student in the Biostatistics and Epidemiology concentration! In my free time, I love to go thrift, go to the beach with friends, and listen to music! <img src="https://www.google.com/search?q=dana+gonzalez+usc&sca_esv=2fcb7b144273d9a6&udm=2&biw=1440&bih=668&ei=JT_bZtf9OaGlkPIPtPzF8A8&ved=0ahUKEwiXpMOC766IAxWhEkQIHTR-Ef4Q4dUDCBE&uact=5&oq=dana+gonzalez+usc&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWRhbmEgZ29uemFsZXogdXNjSMIRUOEDWIcQcAJ4AJABAJgBNaAB0wKqAQE3uAEDyAEA-AEBmAIEoALWAcICBxAAGIAEGArCAgUQABiABMICBhAAGAcYHsICBBAAGB7CAgYQABgKGB7CAgYQABgeGA-YAwCIBgGSBwE0oAeTGg&sclient=gws-wiz-serp#vhid=VkOwe7pAdywqVM&vssid=mosaic" width="40px">
 
 Jazmin Hernandez
 
-Arianna Hernandez Goncalves
+[**@AriH-797**](https://github.com/AriH-797/) Hi! My name is Arianna and I am from Venezuela!
 
 Alli Hoang
 
-Giuliet Kibler
+[**@giulietk**](https://github.com/giulietk/) I'm Giuliet Kibler and I'm from St. Louis, Missouri.
 
 Katie Loomis
 
-Norma Marshall
+[**@normamarshall**](https://github.com/normamarshall/) Hi I'm Norma! I'm a first year student in the MPH program! I'm from Los Angeles and I enjoy trying new cold brews around town!<img src="https://media.licdn.com/dms/image/v2/D5603AQE_lhuh9GlOqw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1676502746204?e=1730937600&v=beta&t=q6Qm_LEqwsuiRRKYbotk_H6SpZoKFyVQdzEDg6pJyCA" width="40px"> 
 
-Si Shen
 
-Erica Shin
+Si SHEN
+[**KessieSHEN**](https://github.com/KessieSHEN)I love snowboarding,i m a regular ^_^ <imgscr="https://avatars.githubusercontent.com/u/179794031?s=400&u=6b972b24d7a20f62d8f4d426b0c17c305a5c608a&v=4"width="40px>"
 
-Nicole Tang
+[**@ericays**](https://github.com/ericays/) Hi, I'm a second year MPH student in the epidemiology/biostatistics concentration!
 
-Isabella Villanueva
+[**@nktang05**](https://github.com/nktang05) I am a first year in the MS Public Health Data Science program. I am from Los Angeles and like trying out all the cafes and restaurants here!
+
+[**@bellavillan**] (https://github.com/bellavillan) I can speak French oui oui  
 
 Erin Yu
 
-Haoyu Yu
+[**@yhyhyyy**](https://github.com/yhyhyyy/) I am Haoyu Yu and I like play tennis! <img src="https://avatars.githubusercontent.com/u/179960482?s=400&u=eb6a6ccca5dd20b246be9a2bc0defa3013813fc9&v=4" width="40px">
 
 ## Instructors
 
