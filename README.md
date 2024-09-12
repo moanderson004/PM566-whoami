@@ -25,7 +25,7 @@ repository (the USCbiostats version).
 [**@almodaweb**](https://github.com/almodaweb)  - I'm Hanin, an international student from Bahrain and I love crocheting and watching reality tv!
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffeltedbutton.com%2Fblogs%2Fnew-felted-button-blog%2Fbook-review-crochet-cute-critters&psig=AOvVaw0aIHqT_g49qrBSrBbdSAxF&ust=1725730943711000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDwoIDvrogDFQAAAAAdAAAAABAE">
 
-Patrick Casanas
+[**@pcasanas**](https://github.com/pcasanas) - I'm Patrick, a current 2nd year MPH biostats-epi student! I currently love rock climbing!
 
 [**@Liying000888**](https://github.com/Liying000888/) - I'm Kristy, second year Master program in Biostatistics. 
 
