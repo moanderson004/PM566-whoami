@@ -39,7 +39,9 @@ Ellya Gholmieh [**@KodzuKenma101**](https://github.com/KodzuKenma101/) I love St
 
 [**@danagonz**] (https://github.com/danagonz) I'm a first year MPH student in the Biostatistics and Epidemiology concentration!
 
-Jazmin Hernandez
+```md
+[**@jhernandez3609**](https://github.com/jhernandez3609/) I'm Jazmin, a second year MPH student. I was recently gifted a kitten named Lunita! She takes up most of my time now :) 
+```
 
 [**@AriH-797**](https://github.com/AriH-797/) Hi! My name is Arianna and I am from Venezuela!
 
