@@ -69,7 +69,7 @@ Erin Yu I am from Orange County and I love pasta
 
 ## Instructors
 
-Jessica George
+[**@jessicaageorge5**](https://github.com/jessicaageorge5) Happy to be your TA this year! I love being active; my favorite activities are going to the gym and roller skating. <img src="[https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/1024px/1f6fc.png" alt="profile pic" width="40px">
 
 [**@kstreet13**](https://github.com/kstreet13) One of my favorite places in the LA area is the Huntington. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px"> 
 
