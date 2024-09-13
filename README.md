@@ -38,7 +38,9 @@ Ellya Gholmieh
 
 Dana Gonzalez
 
-Jazmin Hernandez
+```md
+[**@jhernandez3609**](https://github.com/jhernandez3609/) I'm Jazmin, a second year MPH student. I was recently gifted a kitten named Lunita! She takes up most of my time now :) 
+```
 
 Arianna Hernandez Goncalves
 
