@@ -47,7 +47,7 @@ Alli Hoang
 
 [**@giulietk**](https://github.com/giulietk/) I'm Giuliet Kibler and I'm from St. Louis, Missouri.
 
-Katie Loomis
+Katie Loomis: Hello, I'm Katie. My cats and I are from the moon, but my husband is from Pennsylvania. <img src= "https://preview.redd.it/fun-challenge-enter-the-same-exact-prompt-but-creatively-v0-xuwjarvsgkac1.jpg?width=1024&format=pjpg&auto=webp&s=81feff37f5ac86d56fdf02e29e3e4a27ce8c4599" width="40px">
 
 [**@normamarshall**](https://github.com/normamarshall/) Hi I'm Norma! I'm a first year student in the MPH program! I'm from Los Angeles and I enjoy trying new cold brews around town!<img src="https://media.licdn.com/dms/image/v2/D5603AQE_lhuh9GlOqw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1676502746204?e=1730937600&v=beta&t=q6Qm_LEqwsuiRRKYbotk_H6SpZoKFyVQdzEDg6pJyCA" width="40px"> 
 
