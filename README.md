@@ -61,7 +61,7 @@ Si SHEN
 
 [**@bellavillan**] (https://github.com/bellavillan) I can speak French oui oui  
 
-Erin Yu
+Erin Yu I am from Orange County and I love pasta  
 
 [**@yhyhyyy**](https://github.com/yhyhyyy/) I am Haoyu Yu and I like play tennis! <img src="https://avatars.githubusercontent.com/u/179960482?s=400&u=eb6a6ccca5dd20b246be9a2bc0defa3013813fc9&v=4" width="40px">
 
