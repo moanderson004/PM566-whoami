@@ -33,15 +33,18 @@ repository (the USCbiostats version).
 
 [**@carissafeliciano**](https://github.com/carissafeliciano) Hi! I'm Carissa, and I am from the San Francisco Bay Area. 
 
-Sahar Ghahramani
+
+
+```md
+[**@sshahi98**](https://github.com/sshahi98) I love taking candid pictures of street cats. We have lots of street cats in my country, Iran, and they are the most beautiful cats ever! PS. I have no bias! <img src="IMG_0810.jpg">
+```
+
 
 Ellya Gholmieh [**@KodzuKenma101**](https://github.com/KodzuKenma101/) I love Star Wars and have a Lego collection!
 
 [**@danagonz**] (https://github.com/danagonz) I'm a first year MPH student in the Biostatistics and Epidemiology concentration!
 
-```md
-[**@jhernandez3609**](https://github.com/jhernandez3609/) I'm Jazmin, a second year MPH student. I was recently gifted a kitten named Lunita! She takes up most of my time now :) 
-```
+[**\@jhernandez3609**](https://github.com/jhernandez3609/) I'm Jazmin, a second year MPH student. I was recently gifted a kitten named Lunita! She takes up most of my time now :)
 
 [**@AriH-797**](https://github.com/AriH-797/) Hi! My name is Arianna and I am from Venezuela!
 
