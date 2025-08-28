@@ -6,7 +6,7 @@ You need to make a fork of this repository, find your name in the list below, an
 [**@username**](https://github.com/username/) something about you
 ```
 
-You can also add a small picture at the end. It's optional (but fun!) and can come from anywhere on the internet. Here is the code I used to create my intro, which you can use as a template:
+You can also add a small picture at the end. It's optional (but fun!) and can come from anywhere on the internet just by adding a link to the image file. Here is the code I used to create my intro, which you can use as a template:
 
 ```md
 [**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px">
@@ -19,6 +19,52 @@ name! If you don't see your name, just add it at the end of the list.
 Once you are done, submit a
 [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to include your information in the original
 repository (the USCbiostats version).
+
+# PM566 Fall 2025 students
+
+Uma Agarwal
+
+Mitchell Anderson
+
+Katherine Gong
+
+Yiwei Gu
+
+Yitong Huang
+
+Oscar Lam
+
+Chih-Chan Lan
+
+Ziquan Liu
+
+Tarun Mahesh
+
+Yuhan Meng
+
+Christian Navarro
+
+Julian Olea
+
+Brandy Recio
+
+Vicki Shen
+
+Jordan Walton
+
+Yi Wang
+
+Xinran Wang
+
+Gowri Yeliyur Shivakumara Swamy
+
+
+## Instructors
+
+[**@kstreet13**](https://github.com/kstreet13) I'm Kelly and I attended my first WNBA game earlier this year (Sparks vs. Mercury). <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="Kelly Street" width="40px"> 
+
+Xuduo Victor Wen
+
 
 # PM566 Fall 2024 students
 
